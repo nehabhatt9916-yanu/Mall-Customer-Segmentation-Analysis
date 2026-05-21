@@ -10,6 +10,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
+<img width="1320" height="739" alt="Screenshot 2026-05-20 150816" src="https://github.com/user-attachments/assets/2705a9dc-c196-416f-a820-d961203c889e" />
 
 ## 📌 Project Overview
 
